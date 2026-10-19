@@ -1,0 +1,10 @@
+A class is a blueprint or template for creating objects
+
+ map is basically a class
+ house is the object
+
+ class  = blueprint of creating
+ object  = actual car made
+ --------------------------------------
+
+ Self  is used to access the attributes and methods of that particular object.

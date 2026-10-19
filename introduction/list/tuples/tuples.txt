@@ -1,0 +1,4 @@
+1 - tuples are immutable
+2 - heterogeneous
+3 - in list we use []
+4 - but in tuples we will use ()

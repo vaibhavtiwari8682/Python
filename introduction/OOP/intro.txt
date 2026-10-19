@@ -1,0 +1,7 @@
+in oops we will learn 
+ 1 . classes
+ 2 . objects
+ 3. inheritance
+ 4. abstraction
+ 5 . polymorphism
+ 

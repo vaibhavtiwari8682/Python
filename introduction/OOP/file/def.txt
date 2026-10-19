@@ -1,0 +1,19 @@
+File handling means creating, opening, reading, writing, and managing files using a Python program
+
+modes of file 
+r → Read
+w → Write
+a → Add
+x → Create
++ → Read + Write
+b → Binary
+
+ | Mode | Meaning | If file doesn't exist |
+|---|---|---|
+| `r` | **Read** | Error |
+| `w` | **Write** (overwrites old data) | Creates file |
+| `a` | **Append** (adds at end) | Creates file |
+| `x` | **Create new file** | Creates file; error if already exists |
+| `r+` | **Read + Write** | Error |
+| `w+` | **Write + Read** | Creates file, overwrites data |
+| `a+` | **Append + Read** | Creates file |

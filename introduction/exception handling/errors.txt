@@ -1,0 +1,28 @@
+what are errors??
+An error is a problem in a Python program that stops it from working correctly.
+There are mainly 3 common types of errors:
+1. compile time error Error
+A compile-time error is an error found before the program runs, when the code is being translated/checked by the compiler
+2. Logical Error
+A logical error happens when the program runs without crashing but gives the wrong answer.
+
+3. Runtime Error
+A runtime error happens while the program is running.
+
+
+  error in software are bugs and their fixing  is called debugging  
+
+
+  exception occurs while  program has startd running
+   
+
+    exception handling  - Exception handling means handling errors that happen while a program is running, so the program doesn't suddenly stop.
+
+
+    Exception handling means handling errors that happen while a program is running, so the program doesn't suddenly stop.
+
+    In Python, we mainly use:
+- try → code that might cause an error
+- except → what to do if an error occurs
+- else → runs if there is no error
+- finally → runs whether there is an error or not

@@ -1,0 +1,1 @@
+comparison operator used to compare operator and gives boolean values

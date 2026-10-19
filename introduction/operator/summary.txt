@@ -1,0 +1,6 @@
+arithmetic used for math calculation
+comparison used to compare values
+logicals used to combine
+assignment used to assign values
+identity used to object memory location
+membership used to check whether value exists in sequence or not

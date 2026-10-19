@@ -1,0 +1,5 @@
+child class access the properties of parent class
+    provides code 
+    reusability
+    extensibility
+    

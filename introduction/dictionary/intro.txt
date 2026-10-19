@@ -1,0 +1,3 @@
+dictionary stores the key value pair
+it is mutable
+dynamic

@@ -1,0 +1,21 @@
+loop is used to repeat a block of code multiple times
+
+1 while loop
+2 for loop
+
+--------------
+
+while loop 
+true
+syntax of while loop
+while condition
+    #code execute
+
+    ----------------
+
+    for loop
+    [1,2,3,4,5]
+    5 times
+
+    used in list tuples strings called as sequences
+

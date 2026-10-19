@@ -1,0 +1,20 @@
+string and characters
+
+string includes
+number
+a-z,A-Z, special symbols
+white space - " "
+to identify strings in python we use 
+single quotes - 'python'
+double quotes - "python"
+triple quotes
+
+'''
+this is a multiline 
+'''
+
+"""
+this is also a multi line
+"""
+----------- real life exmaple
+welcoming 

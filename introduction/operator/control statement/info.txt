@@ -1,0 +1,13 @@
+top to bottom
+condition , float, run , other ont run
+
+control statement
+conditional - if , else, elif
+for while
+else suite
+nested
+infinite loop
+pass
+continue
+break
+assert return
